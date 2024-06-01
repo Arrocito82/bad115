@@ -31,8 +31,9 @@ Bases de datos
 1. Descargar el repositorio como carpeta comprimida zip  
     <https://github.com/Arrocito82/bad115>  
     ![Descargar carpeta comprimida zip](imagenes/download_zip.png)
-2. Abrir la carpeta en vscode
-3. Presionar las teclas `Ctrl+Shift+p` para abrir la paleta de comandos y escribir `>Dev Containers: Reopen in Container`
+2. Descomprimir la carpeta .zip
+3. Abrir la carpeta en vscode
+4. Presionar las teclas `Ctrl+Shift+p` para abrir la paleta de comandos y escribir `>Dev Containers: Reopen in Container`  
 ![Paleta de comandos](imagenes/paleta_comandos.png)
 
 ### Acerca de 
